@@ -23,7 +23,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.eclipse.smarthome.core.common.ThreadPoolManager;
+import org.openhab.core.common.ThreadPoolManager;
 import org.openhab.binding.zmote.internal.model.ZMoteDevice;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

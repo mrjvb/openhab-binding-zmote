@@ -1,7 +1,7 @@
 # ZMote Binding
 
 This binding allows you to control your [ZMote](http://www.zmote.io) device and send 
-IR codes to IR enabled gadgets.
+IR codes to IR enabled gadgets. This versions aims to be compatible with OH3.x
 
 ## Supported Things
 
